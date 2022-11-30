@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  width:80%;
+  margin:auto;
+  background-color: #282c34;
+  height:500px;
+}
+
+h1,h2{
+  color:#FFFFFF;
+  padding:15px;
+}
+
+label{
+  text-align: left;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.loginContainer{
+  background-color: #FFF;
+  padding:10px;
+  border-radius: 10px;
+  width:35%;
+  margin:auto;
+}
+
+.myInputs{
+  border:1px solid #61dafb;
+  width:85%;
+  height: 45px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+
+.btnSubmit{
+  background-color: #FF00FF;
+  border:none;
+  height: 45px;
+  width:150px;
+  font-weight: bold;
+  margin-top: 10px;
+  cursor: pointer;
+}
